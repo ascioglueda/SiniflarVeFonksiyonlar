@@ -1,2 +1,2 @@
 # SiniflarVeFonksiyonlar
- 
+ Sınıflar ve fonksiyonlar
